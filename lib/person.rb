@@ -19,4 +19,3 @@ class Person
     @job=new_job
   end
 end
-
