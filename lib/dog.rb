@@ -10,4 +10,12 @@ end
   def name
     @name
   end
+
+def breed=(new_breed)
+  new_breed=@breed
+end
+
+def breed
+  @breed
+end
 end
